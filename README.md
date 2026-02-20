@@ -8,15 +8,14 @@ IT Support Technician with hands-on experience in:
 
 - Windows installation & troubleshooting
 - macOS support
-- Kali Linux installation & troubleshooting
-- Ubuntu installation & troubleshooting
+- Linux fundamentals (Ubuntu)
 - Active Directory user management
-- Microsoft 365
+- Microsoft 365 administration
 - Network diagnostics (DNS, DHCP, IP configuration)
 - Hardware upgrades (SSD, RAM)
 - Remote support & incident handling
 
-Currently using Mac OS as the main system
+Currently using macOS as main system while maintaining multi-platform troubleshooting capability.
 
 🛠️ Technical Areas Covered
 
